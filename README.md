@@ -148,6 +148,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
@@ -228,6 +229,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
@@ -242,6 +244,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0009-palindrome-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
