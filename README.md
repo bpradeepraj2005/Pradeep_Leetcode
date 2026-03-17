@@ -147,6 +147,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0058-length-of-last-word) |
@@ -414,6 +415,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
 ## Segment Tree
