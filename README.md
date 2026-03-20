@@ -42,6 +42,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0219-contains-duplicate-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0416-partition-equal-subset-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -322,6 +323,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0792-binary-search) |
@@ -333,6 +335,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -404,6 +407,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0063-unique-paths-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
