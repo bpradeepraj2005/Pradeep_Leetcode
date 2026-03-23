@@ -11,7 +11,7 @@ public:
             }
         }
 
-        sort(nums1.begin(), nums1.end());    
+        //sort(nums1.begin(), nums1.end());    
 
 
         if(odd == nums1.size() || ev == nums1.size()) return true;    
