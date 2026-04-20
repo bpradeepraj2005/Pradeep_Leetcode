@@ -75,6 +75,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1929-concatenation-of-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -309,6 +310,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1448-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
