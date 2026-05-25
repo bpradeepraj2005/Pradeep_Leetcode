@@ -267,6 +267,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1925-count-square-sum-triples](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2413-smallest-even-multiple](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2469-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -403,6 +404,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
