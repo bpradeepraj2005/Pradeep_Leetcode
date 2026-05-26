@@ -210,6 +210,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -258,6 +259,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
