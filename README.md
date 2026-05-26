@@ -156,6 +156,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0058-length-of-last-word](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0412-fizz-buzz) |
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0812-rotate-string) |
@@ -235,6 +236,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
@@ -258,6 +260,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
