@@ -62,6 +62,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-three-consecutive-odds](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -188,6 +189,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0940-fruit-into-baskets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -229,6 +231,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -449,4 +452,8 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
