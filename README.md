@@ -71,6 +71,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1656-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -427,6 +428,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1672-richest-customer-wealth](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
